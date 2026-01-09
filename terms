@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Mental OS</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #fff;
+        }
+        h1 {
+            color: #2196F3;
+            border-bottom: 2px solid #2196F3;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #1976D2;
+            margin-top: 30px;
+        }
+        .effective-date {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .important {
+            background-color: #FFF3E0;
+            border-left: 4px solid #FF9800;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .medical-disclaimer {
+            background-color: #FFEBEE;
+            border-left: 4px solid #F44336;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        ul {
+            padding-left: 25px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        a {
+            color: #2196F3;
+        }
+        .contact {
+            background-color: #E3F2FD;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p class="effective-date">Effective Date: January 9, 2026</p>
+
+    <p>Welcome to Mental OS. These Terms of Service ("Terms") govern your use of the Mental OS mobile application ("App") provided by Mental OS ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms.</p>
+
+    <div class="medical-disclaimer">
+        <h3>Important Health Disclaimer</h3>
+        <p><strong>Mental OS is not a medical device, does not provide medical advice, and is not a substitute for professional mental health treatment.</strong></p>
+        <p>The App is a self-help tool designed to support personal growth and mental wellness through cognitive behavioral techniques, mindfulness exercises, and self-reflection. It does not diagnose, treat, cure, or prevent any mental health condition or disease.</p>
+        <p>If you are experiencing a mental health crisis, thoughts of self-harm, or need immediate support, please contact emergency services (911), a crisis hotline (988 Suicide & Crisis Lifeline), or seek help from a licensed mental health professional.</p>
+    </div>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing or using Mental OS, you confirm that you:</p>
+    <ul>
+        <li>Are at least 13 years of age (or the minimum age required in your jurisdiction)</li>
+        <li>Have read, understood, and agree to be bound by these Terms</li>
+        <li>Agree to our <a href="privacy.html">Privacy Policy</a></li>
+    </ul>
+    <p>If you do not agree to these Terms, do not use the App.</p>
+
+    <h2>2. Description of Service</h2>
+    <p>Mental OS is a mobile application that provides:</p>
+    <ul>
+        <li>Thought capture and journaling tools</li>
+        <li>Cognitive behavioral therapy (CBT) techniques and exercises</li>
+        <li>Breathing and grounding exercises</li>
+        <li>Pattern recognition and personal insights</li>
+        <li>Progress tracking and gamification features</li>
+        <li>Philosophical wisdom and mindfulness content</li>
+    </ul>
+    <p>The App stores all personal data locally on your device. We do not have access to your journal entries, thoughts, or personal content.</p>
+
+    <h2>3. License to Use</h2>
+    <p>Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the App on devices that you own or control, for your personal, non-commercial use.</p>
+    <p>You may not:</p>
+    <ul>
+        <li>Copy, modify, or distribute the App</li>
+        <li>Reverse engineer, decompile, or disassemble the App</li>
+        <li>Remove any copyright or proprietary notices</li>
+        <li>Use the App for any unlawful purpose</li>
+        <li>Transfer or sublicense your rights to any third party</li>
+    </ul>
+
+    <h2>4. In-App Purchases</h2>
+    <p>Mental OS offers optional premium features available through a one-time in-app purchase ("Premium"). By making a purchase:</p>
+    <ul>
+        <li>You agree to pay the price displayed at the time of purchase</li>
+        <li>Payment will be charged to your Apple ID account</li>
+        <li>The purchase is non-consumable and provides lifetime access on devices linked to your Apple ID</li>
+        <li>All purchases are final and non-refundable, except as required by applicable law or Apple's policies</li>
+    </ul>
+    <p>To request a refund, please contact Apple directly through your purchase history or <a href="https://reportaproblem.apple.com">reportaproblem.apple.com</a>.</p>
+
+    <h2>5. User Responsibilities</h2>
+    <p>You are responsible for:</p>
+    <ul>
+        <li>Maintaining the security of your device and any data stored in the App</li>
+        <li>Creating backups of your data using the App's export features if desired</li>
+        <li>Using the App in a manner consistent with its intended purpose</li>
+        <li>Seeking professional help if you require mental health treatment</li>
+    </ul>
+
+    <h2>6. Data and Privacy</h2>
+    <p>Your privacy is important to us. Please review our <a href="privacy.html">Privacy Policy</a> to understand how we handle information.</p>
+    <p>Key points:</p>
+    <ul>
+        <li>All personal content (thoughts, journal entries, etc.) is stored locally on your device</li>
+        <li>We do not have access to your personal content</li>
+        <li>We do not sell your data to third parties</li>
+        <li>If you delete the App, your local data will be permanently deleted</li>
+    </ul>
+
+    <h2>7. Intellectual Property</h2>
+    <p>The App, including its design, features, content, and all related intellectual property, is owned by Mental OS and protected by copyright, trademark, and other intellectual property laws. The philosophical quotes included in the App are attributed to their original authors and are used for educational purposes.</p>
+
+    <h2>8. Disclaimer of Warranties</h2>
+    <div class="important">
+        <p>THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</p>
+    </div>
+    <p>We do not warrant that:</p>
+    <ul>
+        <li>The App will meet your specific requirements</li>
+        <li>The App will be uninterrupted, timely, secure, or error-free</li>
+        <li>The results obtained from using the App will be accurate or reliable</li>
+        <li>Any errors in the App will be corrected</li>
+    </ul>
+
+    <h2>9. Limitation of Liability</h2>
+    <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MENTAL OS, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR GOODWILL, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APP.</p>
+    <p>OUR TOTAL LIABILITY FOR ANY CLAIMS ARISING FROM YOUR USE OF THE APP SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE APP OR PREMIUM FEATURES, IF ANY.</p>
+
+    <h2>10. Indemnification</h2>
+    <p>You agree to indemnify and hold harmless Mental OS and its affiliates from any claims, damages, losses, or expenses (including reasonable attorney's fees) arising from your use of the App or violation of these Terms.</p>
+
+    <h2>11. Third-Party Services</h2>
+    <p>The App may contain links to third-party websites or services. We are not responsible for the content, privacy policies, or practices of any third-party sites or services. Your use of third-party services is at your own risk.</p>
+
+    <h2>12. Modifications to the App and Terms</h2>
+    <p>We reserve the right to:</p>
+    <ul>
+        <li>Modify, suspend, or discontinue the App at any time</li>
+        <li>Update these Terms at any time</li>
+    </ul>
+    <p>If we make material changes to these Terms, we will notify you through the App or by other means. Your continued use of the App after changes become effective constitutes acceptance of the revised Terms.</p>
+
+    <h2>13. Termination</h2>
+    <p>We may terminate or suspend your access to the App at any time, without prior notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties.</p>
+    <p>You may stop using the App at any time by deleting it from your device.</p>
+
+    <h2>14. Governing Law</h2>
+    <p>These Terms shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law provisions. Any disputes arising from these Terms or your use of the App shall be resolved in the courts of competent jurisdiction.</p>
+
+    <h2>15. Apple-Specific Terms</h2>
+    <p>If you are using the App on an Apple device, you acknowledge that:</p>
+    <ul>
+        <li>These Terms are between you and Mental OS, not Apple</li>
+        <li>Apple has no obligation to provide maintenance or support for the App</li>
+        <li>Apple is not responsible for any claims related to the App</li>
+        <li>Apple and its subsidiaries are third-party beneficiaries of these Terms</li>
+    </ul>
+
+    <h2>16. Severability</h2>
+    <p>If any provision of these Terms is found to be unenforceable, the remaining provisions will continue in full force and effect.</p>
+
+    <h2>17. Entire Agreement</h2>
+    <p>These Terms, together with our Privacy Policy, constitute the entire agreement between you and Mental OS regarding your use of the App.</p>
+
+    <div class="contact">
+        <h2>18. Contact Us</h2>
+        <p>If you have questions about these Terms of Service, please contact us at:</p>
+        <p><strong>Email:</strong> myspartandetermination@gmail.com</p>
+    </div>
+
+    <p style="margin-top: 40px; color: #666; font-size: 14px;">Last updated: January 9, 2026</p>
+</body>
+</html>
